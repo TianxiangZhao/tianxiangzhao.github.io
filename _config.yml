@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tianxiang Zhao's Homepage"
 title_separator          : "-"
 name                     : &name "Tianxiang Zhao"
-description              : &description "Phd student at Pennsylvania State University, IST"
+description              : &description "Assistant Professor at HKUST-GZ"
 url                      : https://tianxiangzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TianxiangZhao/tianxiangzhao.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tianxiang Zhao"
   avatar           : "profile.png"
-  bio              : "College of Information Sciences and Technology, Pennsylvania State University"
-  location         : "State College, Pennsylvania"
+  bio              : "AI Thrust, HKUST-GZ"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "tkz5084@psu.edu"
+  email            : "tianxiangz@hkust-gz.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
