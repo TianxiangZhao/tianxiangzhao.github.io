@@ -23,7 +23,7 @@ My research focuses on data-centric machine learning. Recently, my interests inc
     - Explanablity approaches for understanding model behaviors and learning dynamics
 I am broadly interested in topics related to machine learning and cross-disciplinary applications. Feel free to email me if you’d like to connect.
 
-<span style="color: red; font-weight: bold;">I am looking for 2–3 PhD students to start in Fall 2026, and also have openings for Interns/Research Assistants. If you are interested, please send your resume/CV to me.</span>
+<span style="color: red; font-weight: bold;">I am looking for 2–3 PhD students to start in Fall 2026, and also have openings for Interns/Research Assistants at the moment. If you are interested, please send your resume/CV to me.</span>
 
 ## Education 
 - 2019 - 2024, Ph.D, Information Sciences and Technology, The Pennsylvania State University
