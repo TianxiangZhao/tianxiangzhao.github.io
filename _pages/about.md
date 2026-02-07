@@ -8,32 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am Tianxiang Zhao, a PhD student in the Pennsylvania State University, and co-advised by [Prof.Xiang Zhang](https://ist.psu.edu/directory/xzz89) and [Prof.Suhang Wang](https://suhangwang.ist.psu.edu/).
+Welcome to my homepage! I am Tianxiang Zhao, an Assistant Professor in the AI thrust at the Hong Kong University of Science and Technology (Guangzhou), starting from February 2026. Prior to joining HKUST(GZ), I worked as an LLM Researcher at Huawei through the TopMinds (天才少年) program in 2025. I received my Ph.D. in 2024 from the Pennsylvania State University, where I was co-advised by Prof. Xiang Zhang and Prof. Suhang Wang.
+
+
 
 ## Research
-My research focuses on topics related to data-centric machine learning. Most recently, I am interested in the following topics,
-- Learning in complex environments: 
-    - Shifting distributions: knowledge distillation, domain adaptation;
-    - Few supervision: unsupervised contrastive learning; 
-    - Low-quality supervision: learning with noisy labels;
-    - Biased data: alleviating biases and demographic unfairness in the learned model. 
-- Uncovering knowledge learned by the model:
-    - Prediction and explanation co-design for intrinsically interpretable models;
-    - Post-hoc explanation of a trained existing model.
+My research focuses on data-centric machine learning. Recently, my interests include the following directions:
+- Data Efficiency in Machine Learning: 
+    - Learning from imperfect supervison (e.g., noisy or unlabeled data);
+    - Imitation learning and on-policy knowledge distillation.
+- Efficiency of Vision-Language models in reasoning, optimization of agentic systems
+- Trustworthy in Machine Learning:
+    - Model debias
+    - Explanablity approaches for understanding model behaviors and learning dynamics
+I am broadly interested in topics related to machine learning and cross-disciplinary applications. Feel free to email me if you’d like to connect.
 
-<!-- Besides, I am also interested in learning from relational data and designing more scalable or efficient models. -->
+<span style="color: red; font-weight: bold;">I am looking for 2–3 PhD students to start in Fall 2026, and also have openings for Interns/Research Assistants. If you are interested, please send your resume/CV to me.</span>
 
 ## Education 
-- 2019 - 2024 (expected), Ph.D candidate, Information Sciences and Technology, The Pennsylvania State University
+- 2019 - 2024, Ph.D, Information Sciences and Technology, The Pennsylvania State University
 - 2017 - 2019, Master student, University of Science and Technology of China
 - 2013 - 2017, Bachelor in Computer Science, Class of The Gifted Young, University of Science and Technology of China
-
-## Internship
-- 05/2023 - 08/2023, Research Intern in Microsoft Research, Redmond, USA
-- 05/2022 - 08/2022, Research Intern in NEC Labs America, Princeton, USA
-- 05/2021 - 08/2021, Research Intern in NEC Labs America, Princeton, USA
-- 02/2019 - 06/2019, NLP intern in Tencent AI Lab, Shenzhen, China
-- 08/2018 - 01/2019, SenseTime, Beijing, China
 
 ## Recent News 
 * 05/2024: One paper, "Multi-source Unsupervised Domain Adaptation on Graphs with Transferability Modeling", is accepted by KDD-2024
