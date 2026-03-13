@@ -14,11 +14,12 @@ Welcome to my homepage! I am Tianxiang Zhao, an Assistant Professor in the AI th
 
 ## Research
 My research focuses on data-centric machine learning. Recently, my interests include the following directions:
-- Data Efficiency in Machine Learning: 
-    - Learning from imperfect supervison (e.g., noisy or unlabeled data);
-    - Imitation learning and on-policy knowledge distillation.
+- RL in PostTraining: 
+    - Stable and efficient on-policy distillation.
+    - Agentic RL
 - Efficiency of Vision-Language models in reasoning, optimization of agentic systems
-- Trustworthy in Machine Learning:
+- Trustworthy in Machine Learning:  
+    - Learning from imperfect supervison (e.g., noisy or unlabeled data);
     - Model debias
     - Explanablity approaches for understanding model behaviors and learning dynamics
       
