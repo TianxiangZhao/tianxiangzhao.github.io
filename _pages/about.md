@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am Tianxiang Zhao, an Assistant Professor in the AI thrust at the Hong Kong University of Science and Technology (Guangzhou), starting from February 2026. Prior to joining HKUST(GZ), I worked as an LLM Researcher at Huawei through the TopMinds (天才少年) program in 2025. I graduated from the Class of Gifted Young from the University of Science and Techonology of China (USTC) in 2017, and quit from my Master program in USTC to start my Ph.D journey in 2019. I received my Ph.D. in 2024 from the Pennsylvania State University, where I was co-advised by Prof. Xiang Zhang and Prof. Suhang Wang.
+Welcome to my homepage! I am Tianxiang Zhao, an Assistant Professor in the AI thrust at the Hong Kong University of Science and Technology (Guangzhou), starting in February 2026. Prior to joining HKUST(GZ), I worked as an LLM Researcher at Huawei through the TopMinds (天才少年) program in 2025. I graduated from the Class of Gifted Young at the University of Science and Technology of China (USTC) in 2017, and in 2019, I left my Master's program at USTC to begin my Ph.D. journey. I received my Ph.D. in 2024 from the Pennsylvania State University, where I was co-advised by Prof. Xiang Zhang and Prof. Suhang Wang.
 
 
 
