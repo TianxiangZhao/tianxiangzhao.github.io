@@ -10,6 +10,11 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+- Cai Yuchen, Ding Cao, Liang Lin, Chunxi Luo, Xin Xu, Kai Yang, Weijie Liu, Saiyong Yang, **Tianxiang Zhao**, Guangzhong Sun, Guiquan Liu, Junfeng Fang. "Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation." **Neurips** 2026
+
+- Fali Wang, Jihai Chen, Shuhua Yang, Runxue Bao, Zhiwei Zhang, **Tianxiang Zhao**, Hui Liu, Xianfeng Tang, Qi He, Suhang Wang "Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph." **Neurips** 2026
+  
+- Zehao Liu, Weijieying Ren, Jipeng Zhang, **Tianxiang Zhao**, Jingxi Zhu, Xiaoting Li, Vasant G Honavar. "Skin-R1: Clinical Knowledge-Guided Dermatological Diagnosis Using Vision-Language Models." **ECCV** 2026
 
 - Yilong Wang, **Tianxiang Zhao**, Junjie Xu, Suhang Wang. "HC-GST: Heterophily-aware Distribution Consistency based Graph Self-training." **CIKM** 2025.
 
