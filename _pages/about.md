@@ -17,7 +17,8 @@ My research focuses on data-centric machine learning. Recently, my interests inc
 - RL in PostTraining: 
     - Stable and efficient on-policy distillation.
     - Agentic RL
-- Efficiency of Vision-Language models in reasoning, optimization of agentic systems
+- Efficiency of Vision-Language models in reasoning
+- Agentic systems
 - Trustworthy in Machine Learning:  
     - Learning from imperfect supervison (e.g., noisy or unlabeled data);
     - Model debias
@@ -32,8 +33,8 @@ I am broadly interested in topics related to machine learning and cross-discipli
 - 2013 - 2017, Bachelor in Computer Science, Class of The Gifted Young, University of Science and Technology of China
 
 ## Recent News 
-* 05/2024: Two papers are accepted by Neurips-2026
-* 05/2024: One paper, "Skin-R1: Clinical Knowledge-Guided Dermatological Diagnosis Using Vision-Language Models", is accepted by ECCV-2026
+* 09/2026: Two papers are accepted by Neurips-2026
+* 08/2026: One paper, "Skin-R1: Clinical Knowledge-Guided Dermatological Diagnosis Using Vision-Language Models", is accepted by ECCV-2026
 * 05/2024: One paper, "Multi-source Unsupervised Domain Adaptation on Graphs with Transferability Modeling", is accepted by KDD-2024
 * 02/2024: One paper, "Towards Inductive and Efficient Explanations for Graph Neural Networks", is accepted by TPAMI
 * 01/2024：One paper, "Disambiguated Node Classification with Graph Neural Networks", is accepted by WebConf-2024
